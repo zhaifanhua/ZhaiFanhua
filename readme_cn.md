@@ -24,3 +24,5 @@
 
 讨论任何问题 [ 传送门 ](https://github.com/zhaifanhua/ZhaiFanhua/issues/2)
 
+邮箱联系：me@zhaifanhua.com
+
