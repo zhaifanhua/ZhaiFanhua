@@ -11,10 +11,10 @@
 <div style="clear: both;"></div>
 <div style="width: 850px;margin: 0 auto;">
     <a href="https://github.com/zhaifanhua">
-        <img style="height:180px" align="center" src="https://github-readme-stats-weld-iota.vercel.app/api?username=zhaifanhua&locale=cn&show_icons=true&title_color=f3f8f1&text_color=a3e2c5&icon_color=E6E6FA&bg_color=0,696969,415065&hide_border=true" />
+        <img style="height:180px" align="center" src="https://github-readme.zhaifanhua.com/api?username=zhaifanhua&locale=cn&show_icons=true&title_color=f3f8f1&text_color=a3e2c5&icon_color=E6E6FA&bg_color=0,696969,415065&hide_border=true" />
     </a>
     <a href="https://github.com/zhaifanhua">
-        <img style="height:180px" align="center" src="https://github-readme-stats-weld-iota.vercel.app/api/top-langs/?username=zhaifanhua&locale=cn&layout=compact&title_color=f3f8f1&text_color=a3e2c5&bg_color=0,415065,696969&hide_border=true" />
+        <img style="height:180px" align="center" src="https://github-readme.zhaifanhua.com/api/top-langs/?username=zhaifanhua&locale=cn&layout=compact&title_color=f3f8f1&text_color=a3e2c5&bg_color=0,415065,696969&hide_border=true" />
     </a>
 </div>
 
